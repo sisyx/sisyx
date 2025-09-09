@@ -1,8 +1,10 @@
 Hey, I'm Sajad Bahadori
+<br />
 a Machine Learning Engineer
+<br />
 I like coding in VIM
 
-well this is my stack:
+my tech stack:
 <br />
 ML/DL:
 `TensorFlow` `PyTorch` `Scikit-Learn`
