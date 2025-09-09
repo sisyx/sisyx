@@ -3,10 +3,14 @@ a Machine Learning Engineer
 I like coding in VIM
 
 well this is my stack:
+<br />
 ML/DL:
 `TensorFlow` `PyTorch` `Scikit-Learn`
+<br />
 `MLFlow` `FastAPI` `Docker` 
+<br />
 `Pandas` `Numpy` and some other stuff
+<br />
 others:
 `VIM` `Linux` `GIT`
 
